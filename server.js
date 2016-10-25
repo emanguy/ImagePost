@@ -3,7 +3,6 @@ const config = require('config');
 const server = new hapi.Server();
 
 server.connection({
-	host: config.get("Server.host"),
 	port: config.get("Server.port")
 });
 

@@ -19,5 +19,8 @@
   "dependencies": {
     "config": "^1.21.0",
     "hapi": "^15.2.0"
+  },
+  "engines": {
+	  "node": "v4.6.1"
   }
 }
