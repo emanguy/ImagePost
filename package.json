@@ -2,9 +2,9 @@
   "name": "image-post",
   "version": "1.0.0",
   "description": "A webpage where people can post images.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
